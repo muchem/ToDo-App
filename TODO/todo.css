@@ -1,0 +1,48 @@
+body{/*https://www.pixelstalk.net/wp-content/uploads/2016/04/Yosemite-Night-Wallpaper-Full-HD.jpg https://4kwallpaper.org/wp-content/uploads/2016/12/stone-wallpaper3.jpg */
+	background-image:url("https://wcrates.files.wordpress.com/2015/04/wallpaper-of-daredevil.jpg");
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:cover;
+	height:100vh;
+	color:#ecf0f4;
+	background-color:black;	
+}
+
+#todo{
+	font-family: 'Satisfy', cursive;
+}
+h1{
+	font-size:61px;
+}
+li{
+	list-style:none;
+	font-family: 'Fondamento', cursive;
+	font-size:23px;
+}
+#ul li {
+	margin-right:10px
+	
+}
+button{
+	margin-left:5px;
+	border-color:#106389;
+	border-radius:5px;
+	background-color:#106389;
+}
+#submit{
+	margin-left:5px;
+	border-radius:5px;
+	background-color:#329bc3;
+	border-color:#329bc3;
+}
+#inputbar{
+	width:300px;
+	height:20px;
+}
+input[type = "text"]{
+	font-family:cursive;
+}
+/*
+font-family: 'Great Vibes', cursive;
+font-family: 'Satisfy', cursive;
+font-family: 'Merienda', cursive;
